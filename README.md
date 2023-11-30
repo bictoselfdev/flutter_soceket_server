@@ -1,16 +1,7 @@
 # flutter_soceket_server
 
-A new Flutter project.
+Flutter Socket Server 예제입니다.
 
-## Getting Started
+자세한 설명은 아래 블로그 링크를 통해서 확인 가능합니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[[플러터] WiFi 소켓통신 예제 (dart:io)](https://bictoselfdev.blogspot.com/2023/11/flutterSocketEx.html)
